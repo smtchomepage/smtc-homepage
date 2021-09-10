@@ -19,6 +19,9 @@ main:
   - name: Research
     url: research
     weight: 60
+  - name: Gallery
+    url: gallery
+    weight: 70
   - name: Contact
     url: contact
-    weight: 70
+    weight: 80
