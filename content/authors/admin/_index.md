@@ -50,7 +50,7 @@ weight: 1
 ### **Career details**
 
 * Associate Professor / Professor, Nanyang Technological University  
-* Senior Research Scientist/Group Leader/Deputy Centre Director/Centre Director, Institute of Environmental Science & Engineering (IESE), Singapore
+* Senior Research Scientist/Group Leader/Deputy Centre Director/Centre Director, Institute of Environmental Science & Engineering (IESE), Singapore  
 * Assistant Professor / Associate Professor, Institute of Process Engineering (IPE), CAS, China
 
 **Editorial Board Member**
