@@ -28,6 +28,9 @@ social:
 organizations:
   - name: Nanyang Technological University (NTU)
     url: https://www.ntu.edu.sg/
+  - name: Singapore Membrane Technology Centre (SMTC), Nanyang Environment & Water
+      Research Institute (NEWRI), NTU
+    url: https://www.ntu.edu.sg/newri/research-focus/membrane-technology
 education:
   courses:
     - course: PhD
