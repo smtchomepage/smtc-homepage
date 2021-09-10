@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: rwang@ntu.edu.sg
+    link: mailto:rwang@ntu.edu.sg
   - icon: google-scholar
     icon_pack: ai
     link: https://publons.com/researcher/2817826/rong-wang/
