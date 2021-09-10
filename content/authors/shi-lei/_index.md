@@ -38,6 +38,7 @@ education:
     - course: Bachelor's degree
       institution: Dalian University of Technology, China
       year: 2004
+email: shilei@ntu.edu.sg
 superuser: true
 user_groups:
   - Researchers
