@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: post
 design:
-  view: 1
+  view: 5
   columns: "1"
 ---
