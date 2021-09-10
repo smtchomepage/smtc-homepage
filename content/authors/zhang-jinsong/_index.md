@@ -19,11 +19,11 @@ user_groups:
 ---
 <!--StartFragment-->
 
-Over 20 years of working experience in R&D ,engineering and industry development on water industry .
+Over 20 years of working experience in R&D, engineering and industry development on water industry.
 
 Chemical engineering and environmental engineering education background with water and wastewater treatment.
 
-Strong and recognized expertise in
+Strong and recognized expertise in:
 
 Membrane process(MBR, UF, RO)
 
@@ -37,15 +37,13 @@ River restoration project management
 
 ### Experience
 
-Deputy General Manager\
+**Deputy General Manager**\
 CITIC Envirotech Ltd\
 Mar 2018 - Present 3 years 7 months\
 Singapore
 
 **Senior Manager**\
-[CITIC](https://sg.linkedin.com/company/citic_2?trk=public_profile_experience-item_profile-section-card_subtitle-click)
-
-Senior Manager\
+[CITIC](https://sg.linkedin.com/company/citic_2?trk=public_profile_experience-item_profile-section-card_subtitle-click)\
 中信环境技术有限公司 (CITIC Envirotech Ltd)\
 Oct 2014 - Present 7 years\
 Singapore\
