@@ -14,15 +14,15 @@ social:
     link: rwang@ntu.edu.sg
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://publons.com/researcher/2817826/rong-wang/
 organizations:
   - name: Nanyang Technological University (NTU)
-    url: ""
+    url: https://www.ntu.edu.sg/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD
       institution: Chinese Academy of Sciences (CAS)
-      year: 1991
+      year: 1992
     - course: BE
       institution: Zhejiang University
       year: 1984
