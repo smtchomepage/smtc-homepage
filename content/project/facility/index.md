@@ -5,7 +5,7 @@ subtitle: SCALE‐UP OF AQUAPORIN BASED BIOMIMETIC HOLLOW FIBER MEMBRANES FOR
 date: 2021-09-10T12:39:35.383Z
 authors:
   - WANG Rong
-external_link: https://www.ntu.edu.sg/docs/librariesprovider88/newri-domains/smtc/2-smtcposter_iaf-pp.pdf?sfvrsn=13292844_2
+external_link: https://www.ntu.edu.sg/newri/research-focus/membrane-technology
 image:
   focal_point: top
   filename: featured.jpg
@@ -13,5 +13,7 @@ image:
 <!--StartFragment-->
 
 PI: Prof. Wang Rong
+
+Aquaporins (AQP) are natural water channel proteins, which are highly permeable to water but highly retentive to salt.
 
 <!--EndFragment-->
