@@ -12,9 +12,19 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:rwang@ntu.edu.sg
+  - display:
+      header: false
+    link: https://dr.ntu.edu.sg/cris/rp/rp00996
+    icon_pack: ai
+    icon: academia
   - icon: publons
     icon_pack: ai
     link: https://publons.com/researcher/2817826/rong-wang/
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=rSCliCUAAAAJ&hl=en
+    icon_pack: ai
+    icon: google-scholar
 organizations:
   - name: Nanyang Technological University (NTU)
     url: https://www.ntu.edu.sg/
