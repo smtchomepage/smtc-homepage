@@ -36,28 +36,29 @@ Aquaporin proteins provide us with the way water is extracted in nature. I belie
 
 **Head of R&D Asia**\
 Aquaporin asia\
-Nov 2018 - Present2 years 11 months
+Nov 2018 - Present 2 years 11 months
 
 **Product Director**\
 Aquapoten\
-Oct 2016 - Oct 20182 years 1 month\
+Oct 2016 - Oct 2018 2 years 1 month\
 Beijing , China
 
 **Department Head (RO MEMBRANE)**\
 [Aquaporin Asia Pte. Ltd.](https://sg.linkedin.com/company/aquaporin-asia-pte-ltd-?trk=public_profile_experience-item_profile-section-card_subtitle-click)\
-Oct 2015 - Oct 20161 year 1 month\
+Oct 2015 - Oct 2016 1 year 1 month\
 SINGAPORE\
-- RO type Aquaporin Inside Membrane R&D\
-- RO type Aquaporin Inside Membrane product development (Household Purifier Membrane)
+
+* RO type Aquaporin Inside Membrane R&D\
+* RO type Aquaporin Inside Membrane product development (Household Purifier Membrane)
 
 **Project Manager**\
 [Aquaporin A/S](https://sg.linkedin.com/company/aquaporin-a-s?trk=public_profile_experience-item_profile-section-card_subtitle-click)\
-Feb 2013 - Oct 20152 years 9 months\
+Feb 2013 - Oct 2015 2 years 9 months\
 We are working on bringing the world's first generation Aquaporin Inside™ Membranes (AIMs) to the water treatment market.
 
 Project officer\
 Singapore Membrane Technology Center\
-Aug 2009 - Feb 20133 years 7 months\
+Aug 2009 - Feb 2013 3 years 7 months\
 As the project officer at SMTC, I mainly focused on the research of incorporation Aquaporin into the water treatment membrane. Successfully, we made the first generation AIM during the great project.
 
 <!--EndFragment-->
