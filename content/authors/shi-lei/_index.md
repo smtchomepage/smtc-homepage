@@ -7,7 +7,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: "mailto: shilei@ntu.edu.sg"
+    link: mailto:shilei@ntu.edu.sg
     icon_pack: fas
     icon: envelope
   - display:
@@ -59,12 +59,13 @@ Vacuum Evaporation has been the industrial standard for concentration process, w
 
 **Senior Research Fellow**\
 [Nanyang Technological University](https://sg.linkedin.com/company/ntusg?trk=public_profile_experience-item_profile-section-card_subtitle-click)\
-Nov 2011 - Present9 years 11 months
+Nov 2011 - Present 9 years 11 months
 
 Regional Supervisor of Business Development\
 Nanyang Environment & Water Research Institute\
-Mar 2015 - Nov 20172 years 9 months\
+Mar 2015 - Nov 2017 2 years 9 months\
 Carry out business develop in China representing Nanyang Environment & Water Research Institute (NEWRI), includes but not limited to:\
+
 1. Promoting NEWRI derived IPs and technologies to China collaborators,\
 2. Establish collaborations between China academic and industrial partners with NEWRI.\
 3. Project development by bringing in technology, engineering knowhow, investment expertise and funding opportunities.
