@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: freevector-water-drop.jpg
+    image: ""
 ---
 <br>
 
