@@ -3,7 +3,7 @@ abstract: Professor Rong Wang shared lasted advances on novel membrane
   development for water reuse and desalination on IDA Talks.
 slides: null
 url_pdf: ""
-summary: An example event.
+summary: IDA Talks
 title: IDA Talks - Professor Rong Wang, Nanyang Technological University of Singapore
 location: IDA Talks
 date: 2021-08-19T01:00:00.000Z
@@ -16,13 +16,13 @@ authors:
   - WANG Rong
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
-publishDate: 2017-01-01T00:00:00Z
+# address:
+ # street: 450 Serra Mall
+ # city: Stanford
+ # region: CA
+ # postcode: "94305"
+ # country: United States
+publishDate: 2021-08-01T00:00:00Z
 tags: []
 projects: null
 image:
