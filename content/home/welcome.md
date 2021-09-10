@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: ""
+    image: cristian-palmer-xexawgzyobc-unsplash.jpg
 ---
 <br>
 
