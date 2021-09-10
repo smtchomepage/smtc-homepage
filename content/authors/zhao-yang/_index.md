@@ -46,7 +46,7 @@ Beijing , China
 **Department Head (RO MEMBRANE)**\
 [Aquaporin Asia Pte. Ltd.](https://sg.linkedin.com/company/aquaporin-asia-pte-ltd-?trk=public_profile_experience-item_profile-section-card_subtitle-click)\
 Oct 2015 - Oct 2016 1 year 1 month\
-SINGAPORE\
+Singapore
 
 * RO type Aquaporin Inside Membrane R&D\
 * RO type Aquaporin Inside Membrane product development (Household Purifier Membrane)
