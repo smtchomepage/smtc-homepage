@@ -7,7 +7,7 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: "mailto: SHILEI@ntu.edu.sg"
+    link: "mailto: shilei@ntu.edu.sg"
     icon_pack: fas
     icon: Envelope
   - display:
@@ -15,6 +15,11 @@ social:
     link: https://sg.linkedin.com/in/lei-shi-25548b13a
     icon_pack: fab
     icon: linkedin
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Lei-Shi-54
+    icon_pack: ai
+    icon: researchgate
 organizations:
   - name: Nanyang Technological University (NTU)
     url: https://www.ntu.edu.sg/
