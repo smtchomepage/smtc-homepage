@@ -64,10 +64,10 @@ Nov 2011 - Present 9 years 11 months
 Regional Supervisor of Business Development\
 Nanyang Environment & Water Research Institute\
 Mar 2015 - Nov 2017 2 years 9 months\
-Carry out business develop in China representing Nanyang Environment & Water Research Institute (NEWRI), includes but not limited to:\
+Carry out business develop in China representing Nanyang Environment & Water Research Institute (NEWRI), includes but not limited to:
 
-1. Promoting NEWRI derived IPs and technologies to China collaborators,\
-2. Establish collaborations between China academic and industrial partners with NEWRI.\
+1. Promoting NEWRI derived IPs and technologies to China collaborators.
+2. Establish collaborations between China academic and industrial partners with NEWRI.
 3. Project development by bringing in technology, engineering knowhow, investment expertise and funding opportunities.
 
 <!--EndFragment-->
