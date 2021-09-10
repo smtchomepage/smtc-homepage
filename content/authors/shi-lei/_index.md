@@ -53,7 +53,7 @@ Dr. Shi led and participated in 6 major research projects, funded by government 
 
 **Co-Founder and CTO**\
 [Aromatec Pte Ltd](https://aromatec.biz/)\
-Feb 2018 - Present3 years 8 months\
+Feb 2018 - Present 3 years 8 months\
 Singapore\
 Vacuum Evaporation has been the industrial standard for concentration process, which simply means boiling the aqueous solution using combination of heat and vacuum. The harsh operation conditions inevitably causes the loss of taste profile, nutrients and other temperature sensitive components, which have remarkable negative impact on the high valued products, such as: flavors, fruit juice, coffee, tea, milk and medicine.[](https://sg.linkedin.com/company/ntusg?trk=public_profile_experience-item_profile-section-card_image-click)
 
