@@ -1,5 +1,5 @@
 ---
-title: Shi Lei
+title: SHI Lei
 role: Senior Research Fellow, Singapore Membrane Technology Centre, Nanyang
   Environment and Water Research Institute (NEWRI-SMTC); Co-Founder and CTO,
   Aromatec
@@ -16,14 +16,14 @@ social:
     icon: envelope
   - display:
       header: false
-    link: https://sg.linkedin.com/in/lei-shi-25548b13a
-    icon_pack: fab
-    icon: linkedin
-  - display:
-      header: false
     link: " https://www.researchgate.net/profile/Lei-Shi-54"
     icon_pack: ai
     icon: researchgate
+  - display:
+      header: false
+    link: https://sg.linkedin.com/in/lei-shi-25548b13a
+    icon_pack: fab
+    icon: linkedin
 organizations:
   - name: Nanyang Technological University (NTU)
     url: https://www.ntu.edu.sg/
