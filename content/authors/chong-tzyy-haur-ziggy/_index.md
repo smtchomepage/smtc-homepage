@@ -40,7 +40,7 @@ education:
       year: 1999
 superuser: true
 user_groups:
-  - Researcher
+  - Researchers
 ---
 <!--StartFragment-->
 
