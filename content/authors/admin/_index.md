@@ -56,7 +56,7 @@ weight: 1
 **Editorial Board Member**
 
 * Editor - Journal of Membrane Science
-* Editorial Board Member - Desalination
+* Editorial Board Member - Desalination  
 
 ### Biography
 
