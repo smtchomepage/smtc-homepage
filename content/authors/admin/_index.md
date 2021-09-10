@@ -1,5 +1,6 @@
 ---
 title: WANG Rong
+weight: 1
 role: President’s Chair in Civil and Environmental Engineering; Director,
   Singapore Membrane Technology Centre, Nanyang Environment and Water Research
   Institute (NEWRI-SMTC)
