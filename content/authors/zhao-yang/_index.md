@@ -48,7 +48,7 @@ Beijing , China
 Oct 2015 - Oct 2016 1 year 1 month\
 Singapore
 
-* RO type Aquaporin Inside Membrane R&D\
+* RO type Aquaporin Inside Membrane R&D
 * RO type Aquaporin Inside Membrane product development (Household Purifier Membrane)
 
 **Project Manager**\
