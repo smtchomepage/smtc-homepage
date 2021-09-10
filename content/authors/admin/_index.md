@@ -35,10 +35,10 @@ organizations:
 education:
   courses:
     - course: PhD
-      institution: Chinese Academy of Sciences (CAS)
+      institution: Chinese Academy of Sciences (CAS), China
       year: 1992
     - course: BE
-      institution: Zhejiang University
+      institution: Zhejiang University, China
       year: 1984
 email: ""
 superuser: true
