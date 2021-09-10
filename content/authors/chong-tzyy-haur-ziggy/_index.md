@@ -40,7 +40,7 @@ education:
       year: 1999
 superuser: true
 user_groups:
-  - Researchers
+  - Professors
 weight: 2
 ---
 <!--StartFragment-->
@@ -73,6 +73,14 @@ Membrane Process Intensification: Engineering for Efficiency and Sustainability 
 * MIEX Pilot Plant Trial and Waste Brine Treatment for Reuse
 
 [Selected Publications](https://dr.ntu.edu.sg/cris/rp/rp00959#collapseOneselectedPublications)
+
+* Li X, Liu C, Yin W, Chong TH, Wang R. (2019). Design and development of layer-by-layer based low-pressure antifouling nanofiltration membrane used for water reclamation. Journal of Membrane Science, .
+* Yin W, Li X, Suwarno SR, Cornelissen ER, Chong TH. (2019). Fouling behavior of isolated dissolved organic fractions from seawater in reverse osmosis (RO) desalination process. Water Research, .
+* Seonki Lee, Stanislaus Raditya Suwarno, Bryan Wei Hong Quek, Lanhee Kim, Bing Wu\*, Tzyy Haur Chong\**. (2019). A comparison of gravity-driven membrane (GDM) reactor and biofiltration + GDM reactor for seawater reverse osmosis desalination pretreatment. Water Research, 154, 72-83.
+* Jongkwan Park, Kwanho Jeong, Sangsoo Baek, Sanghun Park, Mayzonee Ligaray, Tzyy Haur Chong, Kyung Hwa Cho. (2019). Modeling of NF/RO membrane fouling andflux decline using real-time observations. Journal of Membrane Science, 576, 66-77.
+* Kwanho Jeong, Minkyu Park, Tzyy Haur Chong. (2019). Numerical model-based analysis of energy-efficient reverse osmosis (EERO) process: Performance simulation and optimization. Desalination, 453, 10-21.
+
+### Selected Publications
 
 * Li X, Liu C, Yin W, Chong TH, Wang R. (2019). Design and development of layer-by-layer based low-pressure antifouling nanofiltration membrane used for water reclamation. Journal of Membrane Science, .
 * Yin W, Li X, Suwarno SR, Cornelissen ER, Chong TH. (2019). Fouling behavior of isolated dissolved organic fractions from seawater in reverse osmosis (RO) desalination process. Water Research, .
