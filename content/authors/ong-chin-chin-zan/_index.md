@@ -1,7 +1,7 @@
 ---
 title: ONG Chin Chin, Zan
 weight: 1
-role: Manager, SMTC
+role: Centre Administration Manager, SMTC
 avatar_filename: avatar.jpg
 social:
   - display:
