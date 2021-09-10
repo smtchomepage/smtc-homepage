@@ -56,7 +56,7 @@ SINGAPORE\
 Feb 2013 - Oct 2015 2 years 9 months\
 We are working on bringing the world's first generation Aquaporin Inside™ Membranes (AIMs) to the water treatment market.
 
-Project officer\
+**Project officer**\
 Singapore Membrane Technology Center\
 Aug 2009 - Feb 2013 3 years 7 months\
 As the project officer at SMTC, I mainly focused on the research of incorporation Aquaporin into the water treatment membrane. Successfully, we made the first generation AIM during the great project.
