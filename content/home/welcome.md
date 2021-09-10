@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Hero
 headless: true
-weight: 0
+weight: 10
 title: Singapore Membrane Technology Centre (SMTC)
 hero_media: welcome.jpg
 design:
