@@ -1,3 +1,4 @@
+npm install hugo-extended --save-dev
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"
