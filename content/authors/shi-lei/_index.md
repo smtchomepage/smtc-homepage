@@ -7,11 +7,6 @@ avatar_filename: avatar.jpg
 social:
   - display:
       header: false
-    link: "mailto: shilei@ntu.edu.sg"
-    icon_pack: fas
-    icon: Envelope
-  - display:
-      header: false
     link: https://sg.linkedin.com/in/lei-shi-25548b13a
     icon_pack: fab
     icon: linkedin
