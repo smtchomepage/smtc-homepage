@@ -1,6 +1,5 @@
 ---
 title: CHONG Tzyy Haur, Ziggy
-weight: 2
 role: "Associate Professor, School of Civil and Environmental Engineering;
   Deputy Director, Singapore Membrane Technology Centre, Nanyang Environment and
   Water Research Institute (NEWRI-SMTC)     "
@@ -42,6 +41,7 @@ education:
 superuser: true
 user_groups:
   - Researchers
+weight: 2
 ---
 <!--StartFragment-->
 
@@ -52,8 +52,6 @@ user_groups:
 • Assistant Professor, School of CEE, NTU (2014 – Present)
 
 • Senior Research Fellow (2011 – 2014) & Research Fellow (2008 – 2011), SMTC, NEWRI, NTU
-
-
 
 [Research Interests](https://dr.ntu.edu.sg/cris/rp/rp00959#collapseOneresearchinterests)
 
@@ -67,16 +65,12 @@ Membrane Process Intensification: Engineering for Efficiency and Sustainability 
 
 • Hybrid membrane chemical and bio-reactors
 
-  
-
 [Current Projects](https://dr.ntu.edu.sg/cris/rp/rp00959#collapseOnecurrentprojects)
 
 * Development of Novel Smart Sensor for Reverse Osmosis Fouling Detection
 * Digital Twinning of Secure Water Treatment Facilities
 * Evaluation of Biocide Efficacy for Reverse Osmosis Biofouling Control in Seawater Desalination Application
 * MIEX Pilot Plant Trial and Waste Brine Treatment for Reuse
-
- 
 
 [Selected Publications](https://dr.ntu.edu.sg/cris/rp/rp00959#collapseOneselectedPublications)
 
