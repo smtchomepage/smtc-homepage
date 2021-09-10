@@ -1,19 +1,14 @@
 ---
-# An instance of the Blank widget with a Gallery page element.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
-widget: blank
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 66
-
 title: Gallery
-subtitle:
 
-design:
-  columns: '2'
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 3
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
-
-{{< gallery album="themes" >}}
