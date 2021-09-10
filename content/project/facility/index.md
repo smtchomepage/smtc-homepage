@@ -4,6 +4,7 @@ date: 2020-12-02
 external_link: project/facility/
 image:
   focal_point: top
+  filename: featured.jpg
 ---
 
 Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
