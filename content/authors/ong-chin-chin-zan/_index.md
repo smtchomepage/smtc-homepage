@@ -1,5 +1,6 @@
 ---
 title: ONG Chin Chin, Zan
+weight: 1
 role: Manager (SMTC, EPMC, ECMC)
 avatar_filename: avatar.jpg
 social:
