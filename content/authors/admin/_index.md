@@ -43,7 +43,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Professors
 highlight_name: false
 weight: 1
 ---
@@ -94,3 +94,13 @@ Dr Wang's main research interests cover membrane science & technology, chemical 
 * Scale-Up The Fabrication Of High Performance Aquaporin (AQP)-Based Biomimetic Flat-Sheet Membranes For Seawater Desalination
 * Scale-Up The Fabrication Of High Performance Aquaporin (AQP)-Based Biomimetic Hollow Fiber Membranes For Water Reuse And Desalination
 * Supporting Module Design, Fabrication And Operation To Harness The Benefits Of HAOPs (Heated Aluminum Oxide Particles) For Fouling Control As A Novel Pretreatment In Practical Membrane-Based Water Processes
+
+### Selected Publications
+
+* Jing Wei, Ye Li, Laurentia Setiawan, Rong Wang *. (2016). Influence of macromolecular additive on reinforced flat-sheet thin film composite pressure-retarded osmosis membranes. Journal of Membrane Science, 511(2016), 54-64.
+* Xuesong Li, Shuren Chou, Rong Wang, Lei Shi, Wangxi Fang, G. Chaitra, Chuyang Y. Tang, Jaume Torres, Xiao Hu, Anthony G. Fane. (2015). Nature gives the best solution for desalination: Aquaporin-based hollow fiber composite membrane with superior performance. Journal of Membrane Science, 494, 68-77.
+* Chang Liu, Lei Shi, Rong Wang. (2015). Crosslinked layer-by-layer polyelectrolyte nanofiltration hollow fiber membrane for low-pressure water softening with the presence of SO42− in feed water. Journal of Membrane Science, 486, 169-176.
+* Fang Wangxi ; Shi Lei ; Wang Rong. (2013). Interfacially polymerized composite nanofiltration hollow fiber membranes for low-pressure water softening. Journal of Membrane Science, 430, 129-139.
+* R. Wang*, L. Shi, C. Y. Tang, S. Chou, C. Qiu, A.G. Fane. (2010). Characterization of novel forward osmosis hollow fiber membranes. Journal of Membrane Science, 355, 158–167.
+
+<!--EndFragment-->
