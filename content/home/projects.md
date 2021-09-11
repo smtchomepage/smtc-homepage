@@ -27,14 +27,19 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Aquaporin
-    tag: Aquaporin
+  - name: FO
+    tag: FO
   - name: RO
     tag: RO
+  - name: NF
+    tag: NF
+  - name: MBR
+    tag: MBR
+  - name: Gas
+    tag: Gas
   - name: Fouling
     tag: Fouling  
-  - name: Other
-    tag: Demo
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
