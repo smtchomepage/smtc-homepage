@@ -1,6 +1,6 @@
 ---
 title: Dr Chuah Chong Yang Receives Green Talent Award 2020
-date: 2020-12-02
+date: 2021-01-11T16:00:00.000Z
 summary: <!--StartFragment-->Dr Chong Yang Chuah, who is currently a Research
   Fellow in Singapore Membrane Technology Centre (SMTC) was recently honoured
   with a Green Talent Award in the Green Talent Competition
