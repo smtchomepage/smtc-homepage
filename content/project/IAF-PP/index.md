@@ -2,15 +2,22 @@
 slides: example
 url_pdf: ""
 title: IAF-PP PROJECT
-summary: An example of using the in-built project page.
+summary: >-
+  <!--StartFragment-->
+
+
+  Scale up of Aquaporin based biomimetic hollow fiber membranes for water reuse and desalination
+
+
+  <!--EndFragment-->
 url_video: ""
 date: 2021-09-10T15:20:41.105Z
-
+external_link: https://smtchomepage.netlify.app/project/iaf-pp/
 url_slides: ""
-subtitle: SCALE‐UP OF AQUAPORIN BASED BIOMIMETIC HOLLOW FIBER MEMBRANES FOR
-  WATER REUSE AND DESALINATION
+subtitle: Scale up of Aquaporin based biomimetic hollow fiber membranes for
+  water reuse and desalination
 tags:
-  - Aquaporin
+  - RO
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
