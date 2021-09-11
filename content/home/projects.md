@@ -29,6 +29,10 @@ content:
     tag: '*'
   - name: Aquaporin
     tag: Aquaporin
+  - name: RO
+    tag: RO
+  - name: Fouling
+    tag: Fouling  
   - name: Other
     tag: Demo
 
