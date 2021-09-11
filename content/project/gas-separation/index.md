@@ -9,7 +9,7 @@ draft: false
 featured: false
 tags:
   - Gas
-external_link: https://smtchomepage.netlify.app/project/iaf-pp/
+
 image:
   filename: featured.jpg
   focal_point: Smart
