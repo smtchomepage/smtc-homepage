@@ -3,12 +3,14 @@ title: Fouling Detection in RO
 subtitle: Electrical Impedance Spectroscopy (EIS) for Fouling Detection in
   Reverse Osmosis (RO) Process
 date: 2021-09-11T05:29:46.875Z
+summary: Electrical Impedance Spectroscopy (EIS) for Fouling Detection in
+  Reverse Osmosis (RO) Process
 draft: false
 featured: false
 tags:
   - Fouling
   - RO
-
+external_link: https://smtchomepage.netlify.app/project/iaf-pp/
 image:
   filename: featured.jpg
   focal_point: Smart
