@@ -31,6 +31,8 @@ content:
     tag: FO
   - name: RO
     tag: RO
+  - name: PRO
+    tag: PRO  
   - name: NF
     tag: NF
   - name: MBR
