@@ -12,7 +12,7 @@ summary: >-
   <!--EndFragment-->
 url_video: ""
 date: 2021-09-10T15:20:41.105Z
-external_link: https://smtchomepage.netlify.app/project/iaf-pp/
+
 url_slides: ""
 subtitle: Scale up of Aquaporin based biomimetic hollow fiber membranes for
   water reuse and desalination
