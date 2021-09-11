@@ -1,10 +1,10 @@
 ---
-abstract: Professor Rong Wang shared lasted advances on novel membrane
+abstract: Professor Wang Rong shared lasted advances on novel membrane
   development for water reuse and desalination on IDA Talks.
 slides: null
 url_pdf: ""
 summary: IDA Talks
-title: IDA Talks - Professor Rong Wang, Nanyang Technological University of Singapore
+title: IDA Talks - Professor Wang Rong, Nanyang Technological University of Singapore
 location: IDA Talks
 date: 2021-08-19T01:00:00.000Z
 date_end: 2021-08-19T03:00:00.000Z
